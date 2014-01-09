@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component
+END
+QueryElevationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/QueryElevationComponent.java
+END
+HttpShardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/HttpShardHandler.java
+END
+ShardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ShardHandler.java
+END
+SpellCheckComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/SpellCheckComponent.java
+END
+SearchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/SearchHandler.java
+END
+PivotFacetHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/PivotFacetHelper.java
+END
+ResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ResponseBuilder.java
+END
+FieldFacetStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/FieldFacetStats.java
+END
+FacetComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/FacetComponent.java
+END
+StatsValuesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/StatsValuesFactory.java
+END
+DebugComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/DebugComponent.java
+END
+ShardRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ShardRequest.java
+END
+TermVectorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/TermVectorComponent.java
+END
+TermsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/TermsComponent.java
+END
+StatsValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/StatsValues.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/package.html
+END
+ShardResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ShardResponse.java
+END
+StatsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/StatsComponent.java
+END
+MoreLikeThisComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/MoreLikeThisComponent.java
+END
+ResponseLogComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ResponseLogComponent.java
+END
+RealTimeGetComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/RealTimeGetComponent.java
+END
+ShardDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ShardDoc.java
+END
+HttpShardHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/HttpShardHandlerFactory.java
+END
+ShardHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/ShardHandlerFactory.java
+END
+SpellCheckMergeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/SpellCheckMergeData.java
+END
+SearchComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/SearchComponent.java
+END
+QueryComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/QueryComponent.java
+END
+HighlightComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/handler/component/HighlightComponent.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response
+END
+RangeFacet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/RangeFacet.java
+END
+DocumentAnalysisResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/DocumentAnalysisResponse.java
+END
+UpdateResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/UpdateResponse.java
+END
+PivotField.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/PivotField.java
+END
+FieldAnalysisResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/FieldAnalysisResponse.java
+END
+TermsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/TermsResponse.java
+END
+GroupResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/GroupResponse.java
+END
+SolrPingResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/SolrPingResponse.java
+END
+FieldStatsInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/FieldStatsInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/package.html
+END
+LukeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/LukeResponse.java
+END
+CoreAdminResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/CoreAdminResponse.java
+END
+CollectionAdminResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/CollectionAdminResponse.java
+END
+QueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/QueryResponse.java
+END
+FacetField.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/FacetField.java
+END
+SolrResponseBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/SolrResponseBase.java
+END
+GroupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/GroupCommand.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/Group.java
+END
+SpellCheckResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/SpellCheckResponse.java
+END
+AnalysisResponseBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/response/AnalysisResponseBase.java
+END

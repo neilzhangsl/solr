@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/beans
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/beans/Field.java
+END
+BindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/beans/BindingException.java
+END
+DocumentObjectBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/beans/DocumentObjectBinder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/beans/package.html
+END

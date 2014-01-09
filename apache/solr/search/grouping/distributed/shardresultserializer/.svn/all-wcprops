@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/shardresultserializer
+END
+ShardResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/shardresultserializer/ShardResultTransformer.java
+END
+TopGroupsResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/shardresultserializer/TopGroupsResultTransformer.java
+END
+SearchGroupsResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/shardresultserializer/SearchGroupsResultTransformer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/shardresultserializer/package.html
+END

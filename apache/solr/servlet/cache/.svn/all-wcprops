@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/cache
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/cache/Method.java
+END
+HttpCacheHeaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/cache/HttpCacheHeaderUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/cache/package.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet
+END
+ResponseUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/ResponseUtils.java
+END
+ZookeeperInfoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/ZookeeperInfoServlet.java
+END
+SolrDispatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/SolrDispatchFilter.java
+END
+RedirectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/RedirectServlet.java
+END
+SolrRequestParsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/SolrRequestParsers.java
+END
+DirectSolrConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/DirectSolrConnection.java
+END
+LoadAdminUiServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/LoadAdminUiServlet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/servlet/package.html
+END

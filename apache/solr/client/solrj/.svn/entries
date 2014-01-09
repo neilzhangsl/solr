@@ -1,0 +1,139 @@
+8
+
+dir
+29434
+https://svn1.staff.ifeng.com/svn/TechRADCenter/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj
+https://svn1.staff.ifeng.com/svn/TechRADCenter
+
+
+
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49923457-9d83-7a47-815c-0fec4190c706
+
+impl
+dir
+
+SolrQuery.java
+file
+
+
+
+
+2013-11-29T08:52:31.831135Z
+946c45935944e448f28ae23a52791385
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+SolrServerException.java
+file
+
+
+
+
+2013-11-29T08:52:31.840918Z
+cc21b9c3b23a2afc7cb61904ed67e756
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+StreamingResponseCallback.java
+file
+
+
+
+
+2013-11-29T08:52:31.848744Z
+f6ad5ce59e981351175424b47867b8fb
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+SolrServer.java
+file
+
+
+
+
+2013-11-29T08:52:31.859505Z
+1c9c7354e7de56e51443d5e829913779
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+beans
+dir
+
+request
+dir
+
+SolrRequest.java
+file
+
+
+
+
+2013-11-29T08:52:31.869288Z
+8e667ea74aeb6efffb4ff6ed1c72395b
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+ResponseParser.java
+file
+
+
+
+
+2013-11-29T08:52:31.878093Z
+db17558a28b1f5ae6603647bd40a04cf
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+util
+dir
+
+response
+dir
+
+SolrResponse.java
+file
+
+
+
+
+2013-11-29T08:52:31.886898Z
+9c8143c27b63f310e4e8b68c4de48ce4
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+package.html
+file
+
+
+
+
+2013-11-29T08:52:31.895703Z
+6f33e19f43663c2a763951898f7af011
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+

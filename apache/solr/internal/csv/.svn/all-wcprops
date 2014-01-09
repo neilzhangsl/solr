@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv
+END
+CSVPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/CSVPrinter.java
+END
+ExtendedBufferedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/ExtendedBufferedReader.java
+END
+CharBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/CharBuffer.java
+END
+CSVParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/CSVParser.java
+END
+CSVUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/CSVUtils.java
+END
+CSVStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/CSVStrategy.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/internal/csv/package.html
+END

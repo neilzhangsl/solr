@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl
+END
+BinaryResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/BinaryResponseParser.java
+END
+HttpClientConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/HttpClientConfigurer.java
+END
+LBHttpSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/LBHttpSolrServer.java
+END
+HttpSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/HttpSolrServer.java
+END
+BinaryRequestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/BinaryRequestWriter.java
+END
+StreamingBinaryResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/StreamingBinaryResponseParser.java
+END
+ConcurrentUpdateSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/ConcurrentUpdateSolrServer.java
+END
+HttpClientUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/HttpClientUtil.java
+END
+XMLResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/XMLResponseParser.java
+END
+CloudSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/CloudSolrServer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/impl/package.html
+END

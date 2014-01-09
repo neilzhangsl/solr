@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging
+END
+LogWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/LogWatcher.java
+END
+CircularList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/CircularList.java
+END
+LogWatcherConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/LogWatcherConfig.java
+END
+ListenerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/ListenerConfig.java
+END
+LoggerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/LoggerInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/package.html
+END

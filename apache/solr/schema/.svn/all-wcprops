@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema
+END
+BoolField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/BoolField.java
+END
+SpatialPointVectorFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SpatialPointVectorFieldType.java
+END
+FieldProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/FieldProperties.java
+END
+LongValueFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/LongValueFieldType.java
+END
+TrieDateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TrieDateField.java
+END
+NumericValueFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/NumericValueFieldType.java
+END
+FloatValueFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/FloatValueFieldType.java
+END
+BCDLongField.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/BCDLongField.java
+END
+DoubleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/DoubleField.java
+END
+SpatialTermQueryPrefixTreeFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SpatialTermQueryPrefixTreeFieldType.java
+END
+ZkIndexSchemaReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ZkIndexSchemaReader.java
+END
+BCDStrField.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/BCDStrField.java
+END
+AbstractSpatialPrefixTreeFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/AbstractSpatialPrefixTreeFieldType.java
+END
+IndexSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/IndexSchema.java
+END
+SpatialRecursivePrefixTreeFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SpatialRecursivePrefixTreeFieldType.java
+END
+PointType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/PointType.java
+END
+LatLonType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/LatLonType.java
+END
+TrieFloatField.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TrieFloatField.java
+END
+ManagedIndexSchemaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ManagedIndexSchemaFactory.java
+END
+ShortField.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ShortField.java
+END
+LongField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/LongField.java
+END
+SortableFloatField.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SortableFloatField.java
+END
+SimplePreAnalyzedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SimplePreAnalyzedParser.java
+END
+SpatialQueryable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SpatialQueryable.java
+END
+ByteField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ByteField.java
+END
+ExchangeRateProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ExchangeRateProvider.java
+END
+SimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SimilarityFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/package.html
+END
+ClassicIndexSchemaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ClassicIndexSchemaFactory.java
+END
+TrieIntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TrieIntField.java
+END
+FieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/FieldType.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TextField.java
+END
+CollationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/CollationField.java
+END
+BinaryField.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/BinaryField.java
+END
+SortableIntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SortableIntField.java
+END
+FieldTypePluginLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/FieldTypePluginLoader.java
+END
+StrFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/StrFieldSource.java
+END
+CoordinateFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/CoordinateFieldType.java
+END
+IntValueFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/IntValueFieldType.java
+END
+TrieDoubleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TrieDoubleField.java
+END
+ExternalFileFieldReloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ExternalFileFieldReloader.java
+END
+TrieField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TrieField.java
+END
+BCDIntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/BCDIntField.java
+END
+SortableDoubleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SortableDoubleField.java
+END
+UUIDField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/UUIDField.java
+END
+StrField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/StrField.java
+END
+DoubleValueFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/DoubleValueFieldType.java
+END
+PrimitiveFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/PrimitiveFieldType.java
+END
+CopyField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/CopyField.java
+END
+DateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/DateField.java
+END
+OpenExchangeRatesOrgProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/OpenExchangeRatesOrgProvider.java
+END
+ExternalFileField.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ExternalFileField.java
+END
+TrieLongField.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/TrieLongField.java
+END
+RandomSortField.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/RandomSortField.java
+END
+SortableLongField.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SortableLongField.java
+END
+SchemaField.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SchemaField.java
+END
+ManagedIndexSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/ManagedIndexSchema.java
+END
+EnumField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/EnumField.java
+END
+FloatField.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/FloatField.java
+END
+SchemaAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/SchemaAware.java
+END
+DateValueFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/DateValueFieldType.java
+END
+IndexSchemaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/IndexSchemaFactory.java
+END
+PreAnalyzedField.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/PreAnalyzedField.java
+END
+GeoHashField.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/GeoHashField.java
+END
+JsonPreAnalyzedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/JsonPreAnalyzedParser.java
+END
+AbstractSubTypeFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/AbstractSubTypeFieldType.java
+END
+AbstractSpatialFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/AbstractSpatialFieldType.java
+END
+CurrencyField.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/CurrencyField.java
+END
+IntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/schema/IntField.java
+END

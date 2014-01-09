@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling
+END
+SuggestQueryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SuggestQueryConverter.java
+END
+DirectSolrSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/DirectSolrSpellChecker.java
+END
+ResultEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/ResultEntry.java
+END
+FileBasedSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/FileBasedSpellChecker.java
+END
+SolrSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SolrSpellChecker.java
+END
+SpellCheckCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SpellCheckCorrection.java
+END
+WordBreakSolrSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/WordBreakSolrSpellChecker.java
+END
+SpellingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SpellingResult.java
+END
+SpellCheckCollator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SpellCheckCollator.java
+END
+ConjunctionSolrSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/ConjunctionSolrSpellChecker.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/package.html
+END
+SpellCheckCollation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SpellCheckCollation.java
+END
+PossibilityIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/PossibilityIterator.java
+END
+AbstractLuceneSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/AbstractLuceneSpellChecker.java
+END
+SpellingOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SpellingOptions.java
+END
+SpellingQueryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/SpellingQueryConverter.java
+END
+IndexBasedSpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/IndexBasedSpellChecker.java
+END
+QueryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/QueryConverter.java
+END

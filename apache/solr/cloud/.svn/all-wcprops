@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud
+END
+SyncStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/SyncStrategy.java
+END
+CurrentCoreDescriptorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/CurrentCoreDescriptorProvider.java
+END
+CloudDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/CloudDescriptor.java
+END
+OverseerCollectionProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/OverseerCollectionProcessor.java
+END
+ElectionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/ElectionContext.java
+END
+OverseerSolrResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/OverseerSolrResponse.java
+END
+LeaderElector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/LeaderElector.java
+END
+SolrZkServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/SolrZkServer.java
+END
+ZkCLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/ZkCLI.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/package.html
+END
+RecoveryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/RecoveryStrategy.java
+END
+ZkSolrResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/ZkSolrResourceLoader.java
+END
+Assign.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/Assign.java
+END
+DistributedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/DistributedQueue.java
+END
+ZkController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/ZkController.java
+END
+Overseer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/cloud/Overseer.java
+END

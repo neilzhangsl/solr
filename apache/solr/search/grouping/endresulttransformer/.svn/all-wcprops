@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/endresulttransformer
+END
+SimpleEndResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/endresulttransformer/SimpleEndResultTransformer.java
+END
+EndResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/endresulttransformer/EndResultTransformer.java
+END
+MainEndResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/endresulttransformer/MainEndResultTransformer.java
+END
+GroupedEndResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/endresulttransformer/GroupedEndResultTransformer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/endresulttransformer/package.html
+END

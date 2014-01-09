@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform
+END
+ExplainAugmenterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ExplainAugmenterFactory.java
+END
+ShardAugmenterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ShardAugmenterFactory.java
+END
+TransformerWithContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/TransformerWithContext.java
+END
+ValueSourceAugmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ValueSourceAugmenter.java
+END
+DocTransformers.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/DocTransformers.java
+END
+ValueAugmenterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ValueAugmenterFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/package.html
+END
+TransformContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/TransformContext.java
+END
+DocIdAugmenterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/DocIdAugmenterFactory.java
+END
+ScoreAugmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ScoreAugmenter.java
+END
+ElevatedMarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ElevatedMarkerFactory.java
+END
+ExcludedMarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/ExcludedMarkerFactory.java
+END
+DocTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/DocTransformer.java
+END
+TransformerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/TransformerFactory.java
+END
+BaseEditorialTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/BaseEditorialTransformer.java
+END
+RenameFieldTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/response/transform/RenameFieldTransformer.java
+END

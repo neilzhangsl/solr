@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping
+END
+GroupingSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/GroupingSpecification.java
+END
+CommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/CommandHandler.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/Command.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/package.html
+END

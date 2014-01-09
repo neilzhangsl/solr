@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params
+END
+ModifiableSolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/ModifiableSolrParams.java
+END
+CollectionParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/CollectionParams.java
+END
+GroupParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/GroupParams.java
+END
+SpatialParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/SpatialParams.java
+END
+StatsParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/StatsParams.java
+END
+MoreLikeThisParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/MoreLikeThisParams.java
+END
+CoreAdminParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/CoreAdminParams.java
+END
+ShardParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/ShardParams.java
+END
+HighlightParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/HighlightParams.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/package.html
+END
+QueryElevationParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/QueryElevationParams.java
+END
+MapSolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/MapSolrParams.java
+END
+SpellingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/SpellingParams.java
+END
+SolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/SolrParams.java
+END
+AppendedSolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/AppendedSolrParams.java
+END
+RequiredSolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/RequiredSolrParams.java
+END
+EventParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/EventParams.java
+END
+FacetParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/FacetParams.java
+END
+UpdateParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/UpdateParams.java
+END
+AnalysisParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/AnalysisParams.java
+END
+DefaultSolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/DefaultSolrParams.java
+END
+DisMaxParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/DisMaxParams.java
+END
+MultiMapSolrParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/MultiMapSolrParams.java
+END
+CommonParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/CommonParams.java
+END
+TermVectorParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/TermVectorParams.java
+END
+TermsParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common/params/TermsParams.java
+END

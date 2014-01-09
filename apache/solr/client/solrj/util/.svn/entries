@@ -1,0 +1,52 @@
+8
+
+dir
+29434
+https://svn1.staff.ifeng.com/svn/TechRADCenter/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/util
+https://svn1.staff.ifeng.com/svn/TechRADCenter
+
+
+
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49923457-9d83-7a47-815c-0fec4190c706
+
+ClientUtils.java
+file
+
+
+
+
+2013-11-29T08:52:31.362529Z
+7fdc3823e41e9c744a888026558bb2c2
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+package.html
+file
+
+
+
+
+2013-11-29T08:52:31.371334Z
+6a5b41090d0de9b2ff7200bb5e76810e
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+

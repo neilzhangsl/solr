@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema
+END
+DynamicFieldResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/DynamicFieldResource.java
+END
+CopyFieldCollectionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/CopyFieldCollectionResource.java
+END
+BaseSchemaResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/BaseSchemaResource.java
+END
+FieldCollectionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/FieldCollectionResource.java
+END
+SchemaResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/SchemaResource.java
+END
+SchemaNameResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/SchemaNameResource.java
+END
+FieldTypeCollectionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/FieldTypeCollectionResource.java
+END
+SolrQueryParserDefaultOperatorResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/SolrQueryParserDefaultOperatorResource.java
+END
+DynamicFieldCollectionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/DynamicFieldCollectionResource.java
+END
+DefaultSchemaResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/DefaultSchemaResource.java
+END
+SchemaVersionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/SchemaVersionResource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/package.html
+END
+SchemaSimilarityResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/SchemaSimilarityResource.java
+END
+DefaultSearchFieldResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/DefaultSearchFieldResource.java
+END
+BaseFieldResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/BaseFieldResource.java
+END
+BaseFieldTypeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/BaseFieldTypeResource.java
+END
+SolrQueryParserResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/SolrQueryParserResource.java
+END
+FieldResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/FieldResource.java
+END
+UniqueKeyFieldResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/UniqueKeyFieldResource.java
+END
+FieldTypeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/schema/FieldTypeResource.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/responseprocessor
+END
+SearchGroupShardResponseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/responseprocessor/SearchGroupShardResponseProcessor.java
+END
+TopGroupsShardResponseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/responseprocessor/TopGroupsShardResponseProcessor.java
+END
+StoredFieldsShardResponseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/responseprocessor/StoredFieldsShardResponseProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/grouping/distributed/responseprocessor/package.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/jul
+END
+JulInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/jul/JulInfo.java
+END
+JulWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/jul/JulWatcher.java
+END
+RecordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/jul/RecordHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/logging/jul/package.html
+END

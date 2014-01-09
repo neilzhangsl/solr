@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats
+END
+Snapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/Snapshot.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/Timer.java
+END
+ExponentiallyDecayingSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/ExponentiallyDecayingSample.java
+END
+Sample.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/Sample.java
+END
+UniformSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/UniformSample.java
+END
+TimerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/TimerContext.java
+END
+EWMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/EWMA.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/Clock.java
+END
+Meter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/Meter.java
+END
+Histogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/Histogram.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/util/stats/package.html
+END

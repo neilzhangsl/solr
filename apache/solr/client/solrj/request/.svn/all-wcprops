@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request
+END
+FieldAnalysisRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/FieldAnalysisRequest.java
+END
+ContentStreamUpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/ContentStreamUpdateRequest.java
+END
+DirectXmlRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/DirectXmlRequest.java
+END
+LukeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/LukeRequest.java
+END
+CoreAdminRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/CoreAdminRequest.java
+END
+CollectionAdminRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/CollectionAdminRequest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/package.html
+END
+QueryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/QueryRequest.java
+END
+AbstractUpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/AbstractUpdateRequest.java
+END
+JavaBinUpdateRequestCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/JavaBinUpdateRequestCodec.java
+END
+RequestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/RequestWriter.java
+END
+IsUpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/IsUpdateRequest.java
+END
+UpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/UpdateRequest.java
+END
+DocumentAnalysisRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/DocumentAnalysisRequest.java
+END
+SolrPing.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/client/solrj/request/SolrPing.java
+END

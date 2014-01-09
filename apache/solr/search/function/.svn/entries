@@ -1,0 +1,67 @@
+8
+
+dir
+29434
+https://svn1.staff.ifeng.com/svn/TechRADCenter/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/function
+https://svn1.staff.ifeng.com/svn/TechRADCenter
+
+
+
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49923457-9d83-7a47-815c-0fec4190c706
+
+ValueSourceRangeFilter.java
+file
+
+
+
+
+2013-11-29T08:52:23.794400Z
+8fbba889a7bd5ba72742a557d693815e
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+FileFloatSource.java
+file
+
+
+
+
+2013-11-29T08:52:23.804183Z
+3e49bd3d4fd93bdc574a5d0b770a9267
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+distance
+dir
+
+package.html
+file
+
+
+
+
+2013-11-29T08:52:23.814945Z
+5381e3602391a610a730266f713e1f63
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+

@@ -1,0 +1,73 @@
+8
+
+dir
+29434
+https://svn1.staff.ifeng.com/svn/TechRADCenter/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/spelling/suggest
+https://svn1.staff.ifeng.com/svn/TechRADCenter
+
+
+
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49923457-9d83-7a47-815c-0fec4190c706
+
+LookupFactory.java
+file
+
+
+
+
+2013-11-29T08:52:29.278750Z
+bba84b323456b3022da61c57307bd157
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+Suggester.java
+file
+
+
+
+
+2013-11-29T08:52:29.288533Z
+dfed16415a875be5522abe73e4213e19
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+jaspell
+dir
+
+tst
+dir
+
+fst
+dir
+
+package.html
+file
+
+
+
+
+2013-11-29T08:52:29.297338Z
+f5fe2dd3a2ed591b012315e6f54c829c
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+

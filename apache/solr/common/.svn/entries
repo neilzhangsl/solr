@@ -1,0 +1,136 @@
+8
+
+dir
+29434
+https://svn1.staff.ifeng.com/svn/TechRADCenter/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/common
+https://svn1.staff.ifeng.com/svn/TechRADCenter
+
+
+
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49923457-9d83-7a47-815c-0fec4190c706
+
+luke
+dir
+
+params
+dir
+
+SolrInputField.java
+file
+
+
+
+
+2013-11-29T08:52:19.444878Z
+42e1f2afc0c8ab92ab80c8eccaf21b44
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+EnumFieldValue.java
+file
+
+
+
+
+2013-11-29T08:52:19.453683Z
+2fba301f5783c14aa68073a930f8ad71
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+cloud
+dir
+
+SolrDocumentList.java
+file
+
+
+
+
+2013-11-29T08:52:19.462488Z
+164b13f106fbd14aa337659e83e81139
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+util
+dir
+
+ResourceLoader.java
+file
+
+
+
+
+2013-11-29T08:52:19.474227Z
+ec223d15ba4bafbd5b839f886c909fb8
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+SolrDocument.java
+file
+
+
+
+
+2013-11-29T08:52:19.484010Z
+242eb04108efbd10fd5b210bf668f183
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+SolrException.java
+file
+
+
+
+
+2013-11-29T08:52:19.493793Z
+d5da23a4bf6c3f02348cefa2df790671
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+SolrInputDocument.java
+file
+
+
+
+
+2013-11-29T08:52:19.505533Z
+91517c28eadfc00e448491e6b4b46be0
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+package.html
+file
+
+
+
+
+2013-11-29T08:52:19.513359Z
+1ccbbd7dd9a590ecf3b36f65856495bb
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+

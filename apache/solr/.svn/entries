@@ -1,0 +1,112 @@
+8
+
+dir
+29434
+https://svn1.staff.ifeng.com/svn/TechRADCenter/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr
+https://svn1.staff.ifeng.com/svn/TechRADCenter
+
+
+
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49923457-9d83-7a47-815c-0fec4190c706
+
+update
+dir
+
+analysis
+dir
+
+servlet
+dir
+
+SolrLogFormatter.java
+file
+
+
+
+
+2013-11-29T08:52:31.935813Z
+d869f071fb55dd2b3c52ba83ddcf111e
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+logging
+dir
+
+request
+dir
+
+core
+dir
+
+common
+dir
+
+parser
+dir
+
+store
+dir
+
+response
+dir
+
+package.html
+file
+
+
+
+
+2013-11-29T08:52:31.943639Z
+1ccbbd7dd9a590ecf3b36f65856495bb
+2013-11-28T02:16:34.331326Z
+29348
+wangzj
+
+schema
+dir
+
+search
+dir
+
+cloud
+dir
+
+highlight
+dir
+
+internal
+dir
+
+rest
+dir
+
+handler
+dir
+
+spelling
+dir
+
+util
+dir
+
+client
+dir
+

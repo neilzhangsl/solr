@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest
+END
+GETable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/GETable.java
+END
+SolrRestApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/SolrRestApi.java
+END
+POSTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/POSTable.java
+END
+PUTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/PUTable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/rest/package.html
+END

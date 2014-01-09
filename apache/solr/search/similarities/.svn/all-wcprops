@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities
+END
+LMDirichletSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/LMDirichletSimilarityFactory.java
+END
+SchemaSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/SchemaSimilarityFactory.java
+END
+DefaultSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/DefaultSimilarityFactory.java
+END
+BM25SimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/BM25SimilarityFactory.java
+END
+LMJelinekMercerSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/LMJelinekMercerSimilarityFactory.java
+END
+IBSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/IBSimilarityFactory.java
+END
+DFRSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/DFRSimilarityFactory.java
+END
+SweetSpotSimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/SweetSpotSimilarityFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TechRADCenter/!svn/ver/29348/AI_team/search/trunk/wangzj/solr4.6.0/src/org/apache/solr/search/similarities/package.html
+END
